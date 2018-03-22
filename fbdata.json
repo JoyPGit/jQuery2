@@ -1,0 +1,18 @@
+{
+    "id": "662851767161435",
+    "name": "Swagat Patra",
+    "picture": {
+      "data": {
+        "height": 50,
+        "is_silhouette": false,
+        "url": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/19642691_1373024979477440_2301047418708577557_n.jpg?oh=136e0eb2cff8ec276344873f3053c842&oe=5B34A836",
+        "width": 50
+      }
+    },
+    "cover": {
+      "id": "1373037889476149",
+      "offset_x": 0,
+      "offset_y": 67,
+      "source": "https://scontent.xx.fbcdn.net/v/t1.0-9/19657164_1373037889476149_3280769914392990490_n.jpg?_nc_cat=0&oh=dc704e49f736200ec4138b0acb640807&oe=5B41CB80"
+    }
+  }

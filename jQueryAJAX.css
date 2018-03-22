@@ -1,0 +1,10 @@
+.data1{
+    border-color: red;
+    border-style: solid;
+    border-width: 4px;
+    margin-left: 25px;
+}
+.fbUserPic{
+    width:auto;
+    height:55px;
+}
